@@ -47,5 +47,3 @@ Open HYROCOPT HACK.exe.
 Open Riot Games Launcher and launch Valorant.
 
 Enjoy
-
-# PASSWORD FOR ZIP ARCHIVE: 23
